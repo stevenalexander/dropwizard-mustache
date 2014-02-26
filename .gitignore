@@ -1,0 +1,8 @@
+build
+target
+.idea
+.idea_modules
+logs
+libraries
+.DS_Store
+*.iml
