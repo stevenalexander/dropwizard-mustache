@@ -12,6 +12,7 @@ resolvers ++= Seq(
 
 libraryDependencies ++= Seq(
   "com.yammer.dropwizard" % "dropwizard-core" % "0.6.2",
+  "com.yammer.dropwizard" % "dropwizard-views" % "0.6.2",
   "javax.servlet" % "javax.servlet-api" % "3.0.1"
 )
 
